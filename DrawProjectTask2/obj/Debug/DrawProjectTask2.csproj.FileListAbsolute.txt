@@ -1,0 +1,9 @@
+C:\Users\dan\Desktop\С#\DrawProjectTask2\DrawProjectTask2\bin\Debug\DrawProjectTask2.exe.config
+C:\Users\dan\Desktop\С#\DrawProjectTask2\DrawProjectTask2\bin\Debug\DrawProjectTask2.exe
+C:\Users\dan\Desktop\С#\DrawProjectTask2\DrawProjectTask2\bin\Debug\DrawProjectTask2.pdb
+C:\Users\dan\Desktop\С#\DrawProjectTask2\DrawProjectTask2\obj\Debug\DrawProjectTask2.csprojResolveAssemblyReference.cache
+C:\Users\dan\Desktop\С#\DrawProjectTask2\DrawProjectTask2\obj\Debug\DrawProjectTask2.Form1.resources
+C:\Users\dan\Desktop\С#\DrawProjectTask2\DrawProjectTask2\obj\Debug\DrawProjectTask2.Properties.Resources.resources
+C:\Users\dan\Desktop\С#\DrawProjectTask2\DrawProjectTask2\obj\Debug\DrawProjectTask2.csproj.GenerateResource.Cache
+C:\Users\dan\Desktop\С#\DrawProjectTask2\DrawProjectTask2\obj\Debug\DrawProjectTask2.exe
+C:\Users\dan\Desktop\С#\DrawProjectTask2\DrawProjectTask2\obj\Debug\DrawProjectTask2.pdb
